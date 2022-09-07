@@ -1,3 +1,5 @@
+![Screenshot (12)](https://user-images.githubusercontent.com/79151593/188877976-a664969b-6550-48cc-8a85-97379aefb5eb.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/79151593/188878027-def9ac27-5d01-4dc8-b24b-5dd26c018ec9.png)
 # laundry_buddy
 
 A new Flutter project.
